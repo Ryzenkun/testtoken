@@ -9,4 +9,4 @@ A transparent & shielded custom token in Leo.
 To run this program, run:
 ```bash
 ./run.sh
-```
+```# testtoken
